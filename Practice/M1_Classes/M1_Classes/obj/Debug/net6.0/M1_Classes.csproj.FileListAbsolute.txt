@@ -1,0 +1,15 @@
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\bin\Debug\net6.0\M1_Classes.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\bin\Debug\net6.0\M1_Classes.deps.json
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\bin\Debug\net6.0\M1_Classes.runtimeconfig.json
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\bin\Debug\net6.0\M1_Classes.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\bin\Debug\net6.0\M1_Classes.pdb
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\obj\Debug\net6.0\M1_Classes.csproj.AssemblyReference.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\obj\Debug\net6.0\M1_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\obj\Debug\net6.0\M1_Classes.AssemblyInfoInputs.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\obj\Debug\net6.0\M1_Classes.AssemblyInfo.cs
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\obj\Debug\net6.0\M1_Classes.csproj.CoreCompileInputs.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\obj\Debug\net6.0\M1_Classes.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\obj\Debug\net6.0\refint\M1_Classes.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\obj\Debug\net6.0\M1_Classes.pdb
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\obj\Debug\net6.0\M1_Classes.genruntimeconfig.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M1_Classes\M1_Classes\obj\Debug\net6.0\ref\M1_Classes.dll

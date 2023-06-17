@@ -1,0 +1,120 @@
+===> Controller
+-------------------------------------------------------------------------------------------
+  "TokenKey": "tThfdrdIOyy4drtorfruiopIyRdGgtRf"
+-----------------------------------------------------------------------------------------
+ public class AccountController : ControllerBase
+    {
+        private readonly UserManager<AppUser> _userManager;
+        private readonly RoleManager<IdentityRole> _roleManager;
+        private readonly DemoContext _demoContext;
+        private readonly IConfiguration _config;
+
+        public AccountController(UserManager<AppUser> userManager, RoleManager<IdentityRole> roleManager, DemoContext demoContext, IConfiguration config)
+        {
+            _userManager = userManager;
+            _roleManager = roleManager;
+            _demoContext = demoContext;
+            _config = config;
+
+        }
+
+ [EnableCors("Policy1")]
+        [HttpPost("Login")]
+        public async Task<IActionResult> login([FromBody] LoginDTO request)
+        {
+            var user = await _context.UserInformation.FirstOrDefaultAsync(x => x.Email == request.EmailPhoneNumber);
+            if (user == null)
+            {
+                user = await _context.UserInformation.FirstOrDefaultAsync(x => x.PhoneNumber == request.EmailPhoneNumber);
+                if (user == null)
+                {
+                    return Unauthorized("Invalid Email or PhoneNumber");
+                }
+            }
+            var hmac = new HMACSHA512(user.PasswordSalt);
+            var computehash = hmac.ComputeHash(System.Text.Encoding.UTF8.GetBytes(request.Password));
+            for (int i = 0; i < computehash.Length; i++)
+            {
+                if (computehash[i] != user.PasswordHash[i])
+                {
+                    return Unauthorized("Invalid Password");
+                }
+            }
+            var claims = new List<Claim>
+                {
+                    new Claim(ClaimTypes.Name, user.FirstName),
+                    new Claim(ClaimTypes.Email, user.Email),
+
+                };
+            SymmetricSecurityKey key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_config["TokenKey"]));
+            var cred = new SigningCredentials(key, SecurityAlgorithms.HmacSha256Signature);
+            var tokenDescriptor = new SecurityTokenDescriptor
+            {
+                Subject = new ClaimsIdentity(claims),
+                Expires = DateTime.Now.AddMinutes(5),
+                SigningCredentials = cred
+            };
+            var tokenHandler = new JwtSecurityTokenHandler();
+            var token = tokenHandler.CreateToken(tokenDescriptor);
+            var resp = new
+            {
+                Status = "Login Successfull",
+                Token = tokenHandler.WriteToken(token),
+
+            };
+            return Ok(resp);
+        }
+
+
+===>Program.cs
+----------------------------------------------------------------------------------------------
+
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
+{
+    opt.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidateIssuerSigningKey = true,
+        IssuerSigningKey = new SymmetricSecurityKey(System.Text.Encoding.UTF8.GetBytes(builder.Configuration["TokenKey"])),
+        ValidateIssuer = false,
+        ValidateAudience = false,
+        ValidateLifetime = true,
+        ClockSkew = TimeSpan.Zero
+    };
+});
+.
+.
+.
+.
+.
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
+
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+app.UseForwardedHeaders(new ForwardedHeadersOptions
+{
+    ForwardedHeaders = ForwardedHeaders.All
+});
+app.UseAuthentication();
+app.UseRouting();
+app.UseCors();
+app.UseAuthorization();
+
+app.MapControllers();
+
+app.Run();
+
+
+===>DTO
+--------------------------------------------------------------------------------------------
+ public class LoginDTO
+    {
+        public string EmailPhoneNumber { get; set; } = String.Empty;
+
+        public string Password { get; set; } = string.Empty;
+
+    }

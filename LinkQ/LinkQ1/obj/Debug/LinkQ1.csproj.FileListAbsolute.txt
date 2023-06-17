@@ -1,0 +1,8 @@
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\LinkQ1\bin\Debug\LinkQ1.exe.config
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\LinkQ1\bin\Debug\LinkQ1.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\LinkQ1\bin\Debug\LinkQ1.pdb
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\LinkQ1\obj\Debug\LinkQ1.csproj.AssemblyReference.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\LinkQ1\obj\Debug\LinkQ1.csproj.SuggestedBindingRedirects.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\LinkQ1\obj\Debug\LinkQ1.csproj.CoreCompileInputs.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\LinkQ1\obj\Debug\LinkQ1.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\LinkQ1\obj\Debug\LinkQ1.pdb

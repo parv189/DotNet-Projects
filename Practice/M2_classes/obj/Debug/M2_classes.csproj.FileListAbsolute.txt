@@ -1,0 +1,8 @@
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M2_classes\bin\Debug\M2_classes.exe.config
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M2_classes\bin\Debug\M2_classes.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M2_classes\bin\Debug\M2_classes.pdb
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M2_classes\obj\Debug\M2_classes.csproj.AssemblyReference.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M2_classes\obj\Debug\M2_classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M2_classes\obj\Debug\M2_classes.csproj.CoreCompileInputs.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M2_classes\obj\Debug\M2_classes.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\M2_classes\obj\Debug\M2_classes.pdb

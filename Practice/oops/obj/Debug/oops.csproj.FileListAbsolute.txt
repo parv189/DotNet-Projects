@@ -1,0 +1,8 @@
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\oops\bin\Debug\oops.exe.config
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\oops\bin\Debug\oops.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\oops\bin\Debug\oops.pdb
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\oops\obj\Debug\oops.csproj.AssemblyReference.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\oops\obj\Debug\oops.csproj.SuggestedBindingRedirects.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\oops\obj\Debug\oops.csproj.CoreCompileInputs.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\oops\obj\Debug\oops.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\oops\obj\Debug\oops.pdb

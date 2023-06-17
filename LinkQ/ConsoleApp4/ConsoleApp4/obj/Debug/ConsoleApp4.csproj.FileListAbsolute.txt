@@ -1,0 +1,94 @@
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.NewtonsoftJson.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Buffers.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Memory.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Text.Json.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.ValueTuple.dll
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.NewtonsoftJson.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Buffers.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Memory.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Text.Json.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\bin\Debug\System.ValueTuple.xml
+C:\Users\varsha.oberoi\source\repos\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.NewtonsoftJson.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Buffers.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Memory.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Text.Json.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.ValueTuple.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Configuration.NewtonsoftJson.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Buffers.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Memory.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Text.Json.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\bin\Debug\System.ValueTuple.xml
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CopyComplete
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\LinkQ\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb

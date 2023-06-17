@@ -1,0 +1,20 @@
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\LinqSamples\SampleQueries\bin\Debug\SampleQueries.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\LinqSamples\SampleQueries\bin\Debug\SampleQueries.pdb
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\QuerySamples.Properties.Resources.resources
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleSupport.SampleForm.resources
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.exe
+C:\Users\v-damdec\Downloads\Archived Samples Gallery\CSharpSamples\CSharpSamples\LinqSamples\SampleQueries\obj\Debug\SampleQueries.pdb
+D:\varsh\MCTS\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.exe
+D:\varsh\MCTS\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.pdb
+E:\Core .net\Asp.net Core\study\Linq\LINQ - Sample Queries\C#\bin\Debug\SampleQueries.exe
+E:\Core .net\Asp.net Core\study\Linq\LINQ - Sample Queries\C#\bin\Debug\SampleQueries.pdb
+E:\Core .net\Asp.net Core\study\Linq\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csprojAssemblyReference.cache
+E:\Core .net\Asp.net Core\study\Linq\LINQ - Sample Queries\C#\obj\Debug\QuerySamples.Properties.Resources.resources
+E:\Core .net\Asp.net Core\study\Linq\LINQ - Sample Queries\C#\obj\Debug\SampleSupport.SampleForm.resources
+E:\Core .net\Asp.net Core\study\Linq\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csproj.GenerateResource.cache
+E:\Core .net\Asp.net Core\study\Linq\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.csproj.CoreCompileInputs.cache
+E:\Core .net\Asp.net Core\study\Linq\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.exe
+E:\Core .net\Asp.net Core\study\Linq\LINQ - Sample Queries\C#\obj\Debug\SampleQueries.pdb

@@ -1,0 +1,8 @@
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\collections\bin\Debug\collections.exe.config
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\collections\bin\Debug\collections.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\collections\bin\Debug\collections.pdb
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\collections\obj\Debug\collections.csproj.AssemblyReference.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\collections\obj\Debug\collections.csproj.SuggestedBindingRedirects.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\collections\obj\Debug\collections.csproj.CoreCompileInputs.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\collections\obj\Debug\collections.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\collections\obj\Debug\collections.pdb

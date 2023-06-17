@@ -1,0 +1,8 @@
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\P2_Classes\obj\Debug\P2_Classes.csproj.AssemblyReference.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\P2_Classes\obj\Debug\P2_Classes.csproj.SuggestedBindingRedirects.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\P2_Classes\obj\Debug\P2_Classes.csproj.CoreCompileInputs.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\P2_Classes\bin\Debug\P2_Classes.exe.config
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\P2_Classes\bin\Debug\P2_Classes.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\P2_Classes\bin\Debug\P2_Classes.pdb
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\P2_Classes\obj\Debug\P2_Classes.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Practice\P2_Classes\obj\Debug\P2_Classes.pdb

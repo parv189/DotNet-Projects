@@ -1,0 +1,15 @@
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\bin\Debug\net6.0\Assignment1_SUM_OF_EVEN.exe
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\bin\Debug\net6.0\Assignment1_SUM_OF_EVEN.deps.json
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\bin\Debug\net6.0\Assignment1_SUM_OF_EVEN.runtimeconfig.json
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\bin\Debug\net6.0\Assignment1_SUM_OF_EVEN.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\bin\Debug\net6.0\Assignment1_SUM_OF_EVEN.pdb
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\obj\Debug\net6.0\Assignment1_SUM_OF_EVEN.csproj.AssemblyReference.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\obj\Debug\net6.0\Assignment1_SUM_OF_EVEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\obj\Debug\net6.0\Assignment1_SUM_OF_EVEN.AssemblyInfoInputs.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\obj\Debug\net6.0\Assignment1_SUM_OF_EVEN.AssemblyInfo.cs
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\obj\Debug\net6.0\Assignment1_SUM_OF_EVEN.csproj.CoreCompileInputs.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\obj\Debug\net6.0\Assignment1_SUM_OF_EVEN.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\obj\Debug\net6.0\refint\Assignment1_SUM_OF_EVEN.dll
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\obj\Debug\net6.0\Assignment1_SUM_OF_EVEN.pdb
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\obj\Debug\net6.0\Assignment1_SUM_OF_EVEN.genruntimeconfig.cache
+C:\Users\parv.gajipara\Desktop\DotNet Projects\Modules\Day-1\Assignment1_SUM_OF_EVEN\Assignment1_SUM_OF_EVEN\obj\Debug\net6.0\ref\Assignment1_SUM_OF_EVEN.dll
